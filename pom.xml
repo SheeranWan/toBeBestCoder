@@ -22,6 +22,8 @@
     <modules>
         <module>java-designpattern</module>
         <module>leaf</module>
+        <module>java-interface</module>
+        <module>java-entity</module>
     </modules>
 
     <properties>
